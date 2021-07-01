@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url('Logo.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+}
+div {
+    background-color: hotpink;
+    font-size: 30px;
+}
